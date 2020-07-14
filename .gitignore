@@ -1,0 +1,9 @@
+.idea/
+.vs/
+.git/
+
+SimpleKeyValueStore/bin/
+SimpleKeyValueStore/obj/
+
+TestApp/bin/
+TestApp/obj/
